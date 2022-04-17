@@ -1,7 +1,3 @@
-# Data
-BDPPLab2/files/Vermont_Vendor_Payments.csv
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .idea/
@@ -132,4 +128,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/BDPPLab2/BDPP Lab2/BDPP_2022_Lab2_AhmetEmreBalsever.ipynb
+/BDPPLab2/BDPP Lab2/files/Vermont_Vendor_Payments.csv
