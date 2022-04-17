@@ -1,5 +1,10 @@
+# Data
+BDPP Lab2/files/Vermont_Vendor_Payments.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.idea/
 *.py[cod]
 *$py.class
 
